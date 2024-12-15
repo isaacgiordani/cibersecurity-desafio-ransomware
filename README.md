@@ -5,11 +5,11 @@
 </h1>
 
 [![Status do Projeto](https://img.shields.io/badge/status-ativo-brightgreen.svg)](https://shields.io)
-[![Licença](https://img.shields.io/badge/licença-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-[![pyaes Version](https://img.shields.io/badge/pyaes-%3E%3D1.6.1-blue.svg)](https://pypi.org/project/pyaes/)
 
-Este laboratório tem como objetivo demonstrar a implementação de um sistema básico de criptografia e descriptografia de arquivos utilizando o algoritmo AES (Advanced Encryption Standard) no modo CTR (Counter Mode). O código simula um ataque de "ransomware" para fins educativos, criptografando e descriptografando arquivos com uma chave compartilhada.
+## Sobre o Projeto
+
+Este laboratório tem como objetivo demonstrar a implementação de um sistema básico de **criptografia** e **descriptografia de arquivos** utilizando o algoritmo **AES (Advanced Encryption Standard)** no modo **CTR (Counter Mode)**. O código simula um ataque de **"ransomware"** para fins educativos, criptografando e descriptografando arquivos com uma chave compartilhada.
 
 ## Arquivos
 
