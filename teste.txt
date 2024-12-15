@@ -1,1 +1,7 @@
-alo brasil
+O que é um Ransomware?
+
+Ransomware é um tipo de malware projetado para bloquear o acesso a um sistema ou arquivos até que um resgate seja pago. Após infectar o sistema, o ransomware criptografa os dados, tornando-os inacessíveis para o usuário, e exige um pagamento em troca da chave de descriptografia.
+
+Embora seja uma ameaça grave à segurança digital, entender como o ransomware funciona pode ajudar na prevenção e mitigação dos danos. Sempre tenha backups atualizados e use antivírus confiáveis para se proteger contra esse tipo de ataque.
+
+Lembre-se: A prevenção é sempre melhor que a cura.
