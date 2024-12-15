@@ -33,3 +33,5 @@ Para garantir que todas as dependências sejam instaladas, execute o seguinte co
 
 ```bash
 pip install pyaes
+
+![Alt text](./ransomware.png "Ransomware")
